@@ -1,0 +1,15 @@
+{
+  "name": "grabit",
+  "version": "1.0.0",
+  "description": "grab whv nz script",
+  "main": "start.js",
+  "dependencies": {
+    "selenium-webdriver": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "frankma",
+  "license": "ISC"
+}
