@@ -1,9 +1,13 @@
-var webdriver = require('selenium-webdriver'),
-    By = require('selenium-webdriver').By,
-    until = require('selenium-webdriver').until;
+var webdriver = require('selenium-webdriver');
+var chrome = require('selenium-webdriver/chrome');
+var path = require('chromedriver').path;
+var By = require('selenium-webdriver').By;
+
+var service = new chrome.ServiceBuilder(path).build();
+chrome.setDefaultService(service);
 
 var driver = new webdriver.Builder()
-    .forBrowser('firefox')
+    .withCapabilities(webdriver.Capabilities.chrome())
     .build();
 
 driver.get('https://onlineservices.immigration.govt.nz/secure/Login+Working+Holiday.htm');

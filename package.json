@@ -4,6 +4,7 @@
   "description": "grab whv nz script",
   "main": "start.js",
   "dependencies": {
+    "chromedriver": "^2.21.2",
     "selenium-webdriver": "*"
   },
   "devDependencies": {},
