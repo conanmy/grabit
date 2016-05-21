@@ -1,0 +1,9 @@
+document.getElementById('ctl00_ContentPlaceHolder1_identification_passportNumberTextBox').value = 'E47831970';
+document.getElementById('ctl00_ContentPlaceHolder1_identification_confirmPassportNumberTextBox').value = 'E47831970';
+document.getElementById('ctl00_ContentPlaceHolder1_identification_passportExpiryDateDatePicker_Day').value = '7';
+document.getElementById('ctl00_ContentPlaceHolder1_identification_passportExpiryDateDatePicker_Month').value = '4';
+document.getElementById('ctl00_ContentPlaceHolder1_identification_passportExpiryDateDatePicker_Year').value = '2025';
+document.getElementById('ctl00_ContentPlaceHolder1_identification_otherIdentificationDropdownlist').value = '3';
+document.getElementById('ctl00_ContentPlaceHolder1_identification_otherIssueDateDatePicker_Day').value = '26';
+document.getElementById('ctl00_ContentPlaceHolder1_identification_otherIssueDateDatePicker_Month').value = '8';
+document.getElementById('ctl00_ContentPlaceHolder1_identification_otherIssueDateDatePicker_Year').value = '2008';

@@ -1,0 +1,11 @@
+document.getElementById('ctl00_ContentPlaceHolder1_falseStatementCheckBox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_notesCheckBox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_circumstancesCheckBox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_warrantsCheckBox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_informationCheckBox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_healthCheckBox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_adviceCheckBox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_registrationCheckBox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_entitlementCheckbox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_permitExpiryCheckBox').checked = 'checked';
+document.getElementById('ctl00_ContentPlaceHolder1_medicalInsuranceCheckBox').checked = 'checked';

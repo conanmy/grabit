@@ -1,0 +1,9 @@
+document.getElementById('ctl00_ContentPlaceHolder1_medicalConditions_renalDialysisDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_medicalConditions_tuberculosisDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_medicalConditions_cancerDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_medicalConditions_heartDiseaseDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_medicalConditions_disabilityDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_medicalConditions_hospitalisationDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_medicalConditions_residentailCareDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_medicalConditions_pregnancy_pregnancyStatusDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_medicalConditions_tbRiskDropDownList').value = 'No';

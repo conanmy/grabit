@@ -1,0 +1,9 @@
+document.getElementById('ctl00_ContentPlaceHolder1_character_imprisonment5YearsDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_character_imprisonment12MonthsDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_character_removalOrderDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_character_deportedDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_character_chargedDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_character_convictedDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_character_underInvestigationDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_character_excludedDropDownList').value = 'No';
+document.getElementById('ctl00_ContentPlaceHolder1_character_removedDropDownList').value = 'No';
