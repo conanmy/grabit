@@ -1,5 +1,5 @@
-document.getElementById('ctl00_ContentPlaceHolder1_personDetails_familyNameTextBox').value = 'Mao';
-document.getElementById('ctl00_ContentPlaceHolder1_personDetails_givenName1Textbox').value = 'Zhongping';
+document.getElementById('ctl00_ContentPlaceHolder1_personDetails_familyNameTextBox').value = 'MAO';
+document.getElementById('ctl00_ContentPlaceHolder1_personDetails_givenName1Textbox').value = 'ZHONGPING';
 document.getElementById('ctl00_ContentPlaceHolder1_personDetails_genderDropDownList').value = 'F';
 document.getElementById('ctl00_ContentPlaceHolder1_personDetails_dateOfBithDatePicker_Day').value = '11';
 document.getElementById('ctl00_ContentPlaceHolder1_personDetails_dateOfBithDatePicker_Month').value = '3';
